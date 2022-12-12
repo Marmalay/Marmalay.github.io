@@ -516,8 +516,8 @@
     position: fixed;
     left: 79px;
     top: 118px;
-    width: 300px !important;
-    height: 205px;
+    width: 500px !important;
+    height: 105px;
     border-left: 4px solid #ffffff1c;
 	border-right: none;
 	border-top: none;
@@ -863,7 +863,7 @@
 
 #play-btn {
     background: rgba(68, 68, 68, .45) !important;
-    width: 310px;
+    width: 510px;
     box-shadow: none !important;
     transform: none !important;
 }
